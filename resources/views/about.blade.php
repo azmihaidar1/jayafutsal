@@ -12,8 +12,7 @@
                         <div class="about-img">
                             <img src="assets/img/jayafutsal.jpg" alt="Image">
                             <button type="button" class="btn-play" data-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
-                             </button>
-                        
+                             </button>   
                             </div>
                     </div>
                     <div class="col-lg-6">
