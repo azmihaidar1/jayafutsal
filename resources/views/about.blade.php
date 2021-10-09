@@ -11,36 +11,33 @@
                     <div class="col-lg-6">
                         <div class="about-img">
                             <img src="assets/img/jayafutsal.jpg" alt="Image">
-                            <button type="button" class="btn-play" data-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
-                             </button>   
                             </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="about-content">
                             <div class="section-header">
-                                <p>About Us</p>
-                                <h2>Cooking Since 1990</h2>
+                                <h5>About Us</h5>
+                                <h2>JAYA FUTSAL</h2>
                             </div>
                             <div class="about-text">
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                  Lapangan futsal ini berlokasi di Jalan Trans Kalimantan, Berangas Tim., Alalak, Kabupaten Barito Kuala, Kalimantan Selatan 70582
+
+                                  Jika teman-teman ingin me-review lapangan futsal ini, silahkan gunakan formulir review dibawah. Dan jangan lupa tambahkan foto pendukung.
+                                  
+                                  Untuk melihat daftar lapangan futsal lainnya di Banjarmasin, silahkan lihat daftar lengkap lapangan futsal di Banjarmasin
+                                  
+                                  Salam Futsal!
                                 </p>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. Aenean consectetur convallis porttitor. Aliquam interdum at lacus non blandit.
-                                </p>
-                                <a class="btn custom-btn" href="">Book A Table</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        
+
               </div>
-              <div class="card-body ">
-                <div id="map" class="map"></div>
-              </div>
-            </div>
+             
           </div>
         </div>
       </div>

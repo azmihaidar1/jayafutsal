@@ -11,8 +11,6 @@
               <p>jadwal</p>
             </a>
           </li>
-
-         
           <li>
           <a href="{{url('about')}}">
           <i class="fa fa-archive" aria-hidden="true"></i>

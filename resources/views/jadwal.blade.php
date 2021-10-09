@@ -41,86 +41,86 @@
                       </tr>
                       <tr>
                         <td>
-                          Minerva Hooper
+                          Galih Al fryo
                         </td>
                         <td>
-                          Curaçao
+                          1
                         </td>
                         <td>
-                          Sinaai-Waas
+                          16.00 WITA
                         </td>
                         <td class="text-right">
-                          $23,789
+                          170.000
                         </td>
                       </tr>
                       <tr>
                         <td>
-                          Sage Rodriguez
+                          Zildhan Rey
                         </td>
                         <td>
-                          Netherlands
+                          3
                         </td>
                         <td>
-                          Baileux
+                          17.00 WITA
                         </td>
                         <td class="text-right">
-                          $56,142
+                          170.000
                         </td>
                       </tr>
                       <tr>
                         <td>
-                          Philip Chaney
+                          Dimas Prima
                         </td>
                         <td>
-                          Korea, South
+                          4
                         </td>
                         <td>
-                          Overland Park
+                          18.00 WITA
                         </td>
                         <td class="text-right">
-                          $38,735
+                          170.000
                         </td>
                       </tr>
                       <tr>
                         <td>
-                          Doris Greene
+                          Rizki Aprido
                         </td>
                         <td>
-                          Malawi
+                          1
                         </td>
                         <td>
-                          Feldkirchen in Kärnten
+                          19.00 WITA
                         </td>
                         <td class="text-right">
-                          $63,542
+                          200.000
                         </td>
                       </tr>
                       <tr>
                         <td>
-                          Mason Porter
+                          Mahrudin
                         </td>
                         <td>
-                          Chile
+                          4
                         </td>
                         <td>
-                          Gloucester
+                          20.00 WITA
                         </td>
                         <td class="text-right">
-                          $78,615
+                          200.000
                         </td>
                       </tr>
                       <tr>
                         <td>
-                          Jon Porter
+                          Basit
                         </td>
                         <td>
-                          Portugal
+                          3
                         </td>
                         <td>
-                          Gloucester
+                          20.00 WITA
                         </td>
                         <td class="text-right">
-                          $98,615
+                          200.000
                         </td>
                       </tr>
                     </tbody>
