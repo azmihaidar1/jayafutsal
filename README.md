@@ -5,7 +5,7 @@
 
 ## Tentang
 
- Web info jadwal GOR INDOOR JAYA FUTSAL secara onlin Dibuat dan dijalankan untuk pembelajaran menggunakan Laravel 8
+ Web info jadwal GOR INDOOR JAYA FUTSAL secara online Dibuat dan dijalankan untuk pembelajaran menggunakan Laravel 8
 
 ## Instalasi
 
@@ -30,10 +30,11 @@ Buat key baru :
 
 ```sh
 php artisan key:generate
+```
 
 Jalankan WEB :
 
 ```sh
 php artisan serve
-
 ```
+
